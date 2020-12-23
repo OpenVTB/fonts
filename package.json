@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "license": "VTB group",
+  "files": [
+    "VTBGroupUI-Bold",
+    "VTBGroupUI-DemiBold",
+    "VTBGroupUI-Light",
+    "VTBGroupUI-Medium",
+    "VTBGroupUI-Regular",
+    "VTBGroupUI-SemiBold"
+  ],
+  "scripts": {},
+  "peerDependencies": {},
+  "name": "@openvtb/fonts",
+  "author": "VTB group developers",
+  "devDependencies": {}
+}
